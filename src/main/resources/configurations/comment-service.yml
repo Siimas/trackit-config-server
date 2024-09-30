@@ -1,4 +1,4 @@
 server:
-  port: 8001
+  port: 8004
 spring:
   # Add database connection
